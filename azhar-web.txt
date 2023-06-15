@@ -2,3 +2,4 @@ Azhar Web Saya Sedang Membangun Website
 - progress akan selalu berjalan
 - kalian boleh berkontribusi
 - jangan toxic membantu satu sama lain
+- Penambahan Fitur CheckOut
